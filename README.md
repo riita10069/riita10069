@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm <a href="https://riita10069.me">@riita10069</a></h1>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=riita10069&count_private=true)](https://github.com/riita10069/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=riita10069&count_private=true&show_icons=true)](https://github.com/riita10069/github-readme-stats)
 
 
 <p align="left"> 
