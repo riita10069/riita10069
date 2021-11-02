@@ -26,18 +26,18 @@
 <br>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="80"/>
+<img src="https://lamport.azurewebsites.net/tla/splash_small.png" alt="tlaplus" width="105.212121" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="80" height="80"/>
-<img src="https://riscv.org/wp-content/uploads/2015/10/cropped-LI_profile.png" alt="risk-v" width="80" height="80"/>
 <br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="80" height="80"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_dwave.png" alt="dwave" width="250" height="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/IonQ_corp_logo.svg/1200px-IonQ_corp_logo.svg.png" alt="IonQ" width="200" height="70"/>
-<img src="https://lamport.azurewebsites.net/tla/splash_small.png" alt="dwave" width="105.212121" height="70"/>
+
 <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="verilog" width="199.805825243" height="70"/>
+<img src="https://riscv.org/wp-content/uploads/2015/10/cropped-LI_profile.png" alt="risk-v" width="80" height="80"/>
 
   
 <br>
