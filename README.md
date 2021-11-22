@@ -2,6 +2,9 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=riita10069&count_private=true&show_icons=true)](https://github.com/riita10069/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=riita10069)](https://github.com/riita10069-ma/github-profile-trophy)
+
+
 
 <p align="left"> 
   <a href="https://github.com/riita10069/riita10069/">
@@ -20,6 +23,11 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/riita10069/contributions.svg" />
   </a>
 </p>
+  
+
+[![twitter badge](https://img.shields.io/badge/twitter-riita10069-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/riita10069) 
+[![blog badge](https://img.shields.io/badge/blog-riita10069.me-1f425f?style=flat-square)](https://riita10069.github.io/aboutme/)
+[![blog badge](https://img.shields.io/badge/speakerdeck-riita10069-1f425f?style=flat-square)](https://speakerdeck.com/riita10069)
 
 ### Skills
   
@@ -44,7 +52,3 @@
 
 </p>
   
-<!-- ### Trophy  -->
-  
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=riita10069)](https://github.com/riita10069-ma/github-profile-trophy) -->
