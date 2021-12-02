@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm <a href="https://riita10069.me">@riita10069</a></h1>
+<h2 align="left">Hi 👋, I'm <a href="https://riita10069.github.io/aboutme/">@riita10069</a></h1>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=riita10069&count_private=true&show_icons=true)](https://github.com/riita10069/github-readme-stats)
 
@@ -19,7 +19,7 @@
   <a href="http://qiita.com/riita10069">
     <img height="20" src="https://qiita-badge.apiapi.app/s/riita10069/posts.svg" />
   </a>
-  <//qiita.com/riita10069">
+  <a href="qiita.com/riita10069">
     <img height="20" src="https://qiita-badge.apiapi.app/s/riita10069/contributions.svg" />
   </a>
 </p>
@@ -29,6 +29,12 @@
 [![blog badge](https://img.shields.io/badge/blog-riita10069.me-1f425f?style=flat-square)](https://riita10069.github.io/aboutme/)
 [![blog badge](https://img.shields.io/badge/speakerdeck-riita10069-1f425f?style=flat-square)](https://speakerdeck.com/riita10069)
 
+### Bio
+
+- Student at **Tokyo Institute of Technology**, major in ICT, CS, ML
+- Contribute to **Cloud Native Days & Kubernetes**, as a member of them
+- Plans to join **Amazon** as a new graduate at 2022-04
+ 
 ### Skills
   
 <br>
@@ -42,8 +48,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="80" height="80"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_dwave.png" alt="dwave" width="250" height="70"/>
-
 <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="verilog" width="199.805825243" height="70"/>
 <img src="https://riscv.org/wp-content/uploads/2015/10/cropped-LI_profile.png" alt="risk-v" width="80" height="80"/>
 
