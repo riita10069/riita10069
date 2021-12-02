@@ -33,7 +33,7 @@
 
 - Student at **Tokyo Institute of Technology**, major in ICT, CS, ML
 - Contribute to **Cloud Native Days & Kubernetes**, as a member of them
-- Plans to join **Amazon** as a new graduate at 2022-04
+- Plans to join **Amazon** as a new graduate from 2022-04
  
 ### Skills
   
