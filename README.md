@@ -16,10 +16,10 @@
   <a href="https://github.com/riita10069">
     <img height="20" src="https://img.shields.io/github/followers/riita10069?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/riita10069">
+  <a href="https://qiita.com/riita10069">
     <img height="20" src="https://qiita-badge.apiapi.app/s/riita10069/posts.svg" />
   </a>
-  <a href="qiita.com/riita10069">
+  <a href="https://qiita.com/riita10069">
     <img height="20" src="https://qiita-badge.apiapi.app/s/riita10069/contributions.svg" />
   </a>
 </p>
