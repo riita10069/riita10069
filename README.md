@@ -49,10 +49,18 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="verilog" width="199.805825243" height="70"/>
 <img src="https://riscv.org/wp-content/uploads/2015/10/cropped-LI_profile.png" alt="risk-v" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
-
-
-  
 <br>
-
 </p>
-  
+
+
+### More Detail
+
+
+##### Japanese:
+
+[![blog badge](https://img.shields.io/badge/blog-riita10069.me-1f425f?style=flat-square)](https://riita10069.github.io/aboutme/)
+
+
+##### English:
+[![Ryota Yamada](https://img.shields.io/badge/-riita10069-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riita10069/)](https://www.linkedin.com/in/riita10069/)
+
