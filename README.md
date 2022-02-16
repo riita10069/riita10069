@@ -3,8 +3,9 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=riita10069&count_private=true&show_icons=true)](https://github.com/riita10069/github-readme-stats)
 
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=riita10069&column=8)](https://github.com/riita10069/github-profile-trophy)
- -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=riita10069&row=1)](https://github.com/riita10069/github-profile-trophy)
+
+
 
 <p align="left"> 
   <a href="https://github.com/riita10069/riita10069/">
