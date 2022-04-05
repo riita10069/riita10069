@@ -29,12 +29,6 @@
 [![twitter badge](https://img.shields.io/badge/twitter-riita10069-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/riita10069) 
 [![blog badge](https://img.shields.io/badge/blog-riita10069.me-1f425f?style=flat-square)](https://riita10069.github.io/aboutme/)
 [![blog badge](https://img.shields.io/badge/speakerdeck-riita10069-1f425f?style=flat-square)](https://speakerdeck.com/riita10069)
-
-### Bio
-
-- Student at **Tokyo Institute of Technology**, major in ICT, CS, ML
-- Contribute to **Cloud Native Days & Kubernetes**, as a member of them
-- Plans to join **Amazon** as a new graduate from 2022-04
  
 ### Skills
   
