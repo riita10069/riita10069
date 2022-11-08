@@ -31,8 +31,13 @@
 [![blog badge](https://img.shields.io/badge/speakerdeck-riita10069-1f425f?style=flat-square)](https://speakerdeck.com/riita10069)
  
 ### Skills
+
+- kubernetes
+- TLA+
+- AWS
+- golang
   
-<br>
+<!-- <br>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="80"/>
 <img src="https://lamport.azurewebsites.net/tla/splash_small.png" alt="tlaplus" width="105.212121" height="70"/>
@@ -45,7 +50,7 @@
 <img src="https://riscv.org/wp-content/uploads/2015/10/cropped-LI_profile.png" alt="risk-v" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
 <br>
-</p>
+</p> -->
 
 
 ### More Detail
